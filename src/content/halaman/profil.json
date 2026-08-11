@@ -1,9 +1,4 @@
 {
-  "nama_kades": "Pak Kosasih",
-  "sambutan": "Assalamu'alaikum Wr. Wb.\n\nSelaku Kepala Desa Rancajaya, saya menyambut baik pembuatan website desa sebagai sarana informasi dan komunikasi bagi masyarakat. Website ini diharapkan dapat mempermudah akses informasi serta memperkenalkan potensi Desa Rancajaya kepada khalayak luas.\n\nSaya mengucapkan terima kasih kepada mahasiswa KKN IPB atas kontribusinya dalam pengembangan website ini. Semoga dapat memberikan manfaat bagi masyarakat.",
-  "luas_wilayah": "643 Hektar",
-  "luas_sawah": "447 Hektar",
-  "jumlah_rt": "15 RT",
   "batas_wilayah": [
     {
       "arah": "Utara",
@@ -22,12 +17,151 @@
       "wilayah": "Desa Gempolsari, Kecamatan Patokbeusi"
     }
   ],
-  "tahun_wilayah": 2026,
-  "sumber_wilayah": "Programa Penyuluhan Pertanian Desa Rancajaya Tahun 2026",
-  "status_validasi_wilayah": "Terverifikasi",
-  "penduduk_total": "6597",
-  "penduduk_pria": "3366",
   "penduduk_wanita": "3231",
+  "status_validasi_wilayah": "Terverifikasi",
+  "nama_kades": "Pak Kosasih",
+  "aktif": true,
+  "penduduk_pria": "3366",
+  "release_status": "Terbit",
+  "luas_sawah": "447 Hektar",
+  "tahun_wilayah": 2023,
+  "sambutan": "Assalamu'alaikum Wr. Wb.\n\nSelaku Kepala Desa Rancajaya, saya menyambut baik pembuatan website desa sebagai sarana informasi dan komunikasi bagi masyarakat. Website ini diharapkan dapat mempermudah akses informasi serta memperkenalkan potensi Desa Rancajaya kepada khalayak luas.\n\nSaya mengucapkan terima kasih kepada mahasiswa KKN IPB atas kontribusinya dalam pengembangan website ini. Semoga dapat memberikan manfaat bagi masyarakat.",
+  "jumlah_rt": "15 RT",
+  "struktur_organisasi": [
+    {
+      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
+      "aktif": true,
+      "nama": "Miska",
+      "status_validasi": "Terverifikasi",
+      "urutan": 7,
+      "parent": "kepala-desa",
+      "release_status": "Terbit",
+      "jabatan": "Kawil Dusun Buwer",
+      "slug": "kadus-buwer",
+      "deskripsi": "Mengkoordinasikan pelayanan dan kegiatan warga di Dusun Buwer."
+    },
+    {
+      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
+      "aktif": true,
+      "nama": "Sukana Muhtar",
+      "status_validasi": "Terverifikasi",
+      "urutan": 5,
+      "parent": "kepala-desa",
+      "release_status": "Terbit",
+      "jabatan": "Kawil Dusun Mulyasari",
+      "slug": "kadus-mulyasari",
+      "deskripsi": "Mengkoordinasikan pelayanan dan kegiatan warga di Dusun Mulyasari."
+    },
+    {
+      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
+      "aktif": true,
+      "nama": "Nano Suharno",
+      "status_validasi": "Terverifikasi",
+      "urutan": 6,
+      "parent": "kepala-desa",
+      "release_status": "Terbit",
+      "jabatan": "Kawil Dusun Sengon",
+      "slug": "kadus-sengon",
+      "deskripsi": "Mengkoordinasikan pelayanan dan kegiatan warga di Dusun Sengon."
+    },
+    {
+      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
+      "aktif": true,
+      "nama": "Wendy Wiranto",
+      "status_validasi": "Terverifikasi",
+      "urutan": 4,
+      "parent": "kepala-desa",
+      "release_status": "Terbit",
+      "jabatan": "Kaur Pemerintahan",
+      "slug": "kasi-pemerintahan",
+      "deskripsi": "Membantu urusan pemerintahan, kependudukan, dan pelayanan administrasi masyarakat."
+    },
+    {
+      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
+      "aktif": true,
+      "nama": "Udianto",
+      "status_validasi": "Terverifikasi",
+      "urutan": 3,
+      "parent": "kepala-desa",
+      "release_status": "Terbit",
+      "jabatan": "Kaur Kesra",
+      "slug": "kaur-kesra",
+      "deskripsi": "Membantu pelaksanaan urusan kesejahteraan rakyat desa."
+    },
+    {
+      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
+      "aktif": true,
+      "nama": "Rinto Purwanto",
+      "status_validasi": "Terverifikasi",
+      "urutan": 3,
+      "parent": "kepala-desa",
+      "release_status": "Terbit",
+      "jabatan": "Kaur Keuangan",
+      "slug": "kaur-keuangan",
+      "deskripsi": "Mengelola administrasi keuangan desa dan pelaporan APBDes."
+    },
+    {
+      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
+      "aktif": true,
+      "nama": "Anim Setiawan",
+      "status_validasi": "Terverifikasi",
+      "urutan": 4,
+      "parent": "kaur-kesra",
+      "release_status": "Terbit",
+      "jabatan": "Kaur Umum",
+      "slug": "kaur-umum",
+      "deskripsi": "Membantu pelaksanaan urusan tata usaha dan umum desa."
+    },
+    {
+      "foto": "/images/uploads/whatsapp-image-2026-08-05-at-13.28.06.jpeg",
+      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
+      "aktif": true,
+      "nama": "Kosasih",
+      "status_validasi": "Terverifikasi",
+      "urutan": 1,
+      "release_status": "Terbit",
+      "jabatan": "Kepala Desa",
+      "slug": "kepala-desa",
+      "deskripsi": "Memimpin penyelenggaraan pemerintahan desa, pembangunan, pembinaan masyarakat, dan pemberdayaan warga."
+    },
+    {
+      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
+      "aktif": true,
+      "nama": "Suryanto Suprianto",
+      "status_validasi": "Terverifikasi",
+      "urutan": 2,
+      "parent": "kepala-desa",
+      "release_status": "Terbit",
+      "jabatan": "Sekretaris Desa",
+      "slug": "sekretaris-desa",
+      "deskripsi": "Mengkoordinasikan administrasi pemerintahan, surat menyurat, dan tata kelola kantor desa."
+    },
+    {
+      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
+      "aktif": true,
+      "nama": "Acep Dudung",
+      "status_validasi": "Terverifikasi",
+      "urutan": 7,
+      "parent": "kaur-keuangan",
+      "release_status": "Terbit",
+      "jabatan": "Staff",
+      "slug": "staff-acep-dudung",
+      "deskripsi": "Staff Pemerintahan Desa Rancajaya."
+    },
+    {
+      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
+      "aktif": true,
+      "nama": "Ujang Tamin",
+      "status_validasi": "Terverifikasi",
+      "urutan": 6,
+      "parent": "kasi-pemerintahan",
+      "release_status": "Terbit",
+      "jabatan": "Staff",
+      "slug": "staff-ujang-tamin",
+      "tahun_data": "",
+      "deskripsi": "Staff Pemerintahan Desa Rancajaya."
+    }
+  ],
   "demo_pendidikan": [
     {
       "label": "Tidak/Belum Sekolah",
@@ -64,6 +198,47 @@
     {
       "label": "Strata II-III",
       "value": 3
+    }
+  ],
+  "status_pernikahan": [],
+  "luas_wilayah": "643 Hektar",
+  "penduduk_total": "6597",
+  "data_pekerjaan_warga": [
+    {
+      "label": "Belum/Tidak Bekerja",
+      "value": 1910
+    },
+    {
+      "label": "Mengurus Rumah Tangga",
+      "value": 1759
+    },
+    {
+      "label": "Wiraswasta",
+      "value": 967
+    },
+    {
+      "label": "Pelajar/Mahasiswa",
+      "value": 781
+    },
+    {
+      "label": "Buruh Tani/Perkebunan",
+      "value": 382
+    },
+    {
+      "label": "Petani/Pekebun",
+      "value": 244
+    },
+    {
+      "label": "Karyawan Swasta",
+      "value": 201
+    },
+    {
+      "label": "Buruh Harian Lepas",
+      "value": 191
+    },
+    {
+      "label": "Pekerjaan Lainnya",
+      "value": 162
     }
   ],
   "demografi_umur": [
@@ -108,178 +283,6 @@
       "value": 411
     }
   ],
-  "data_pekerjaan_warga": [
-    {
-      "label": "Belum/Tidak Bekerja",
-      "value": 1910
-    },
-    {
-      "label": "Mengurus Rumah Tangga",
-      "value": 1759
-    },
-    {
-      "label": "Wiraswasta",
-      "value": 967
-    },
-    {
-      "label": "Pelajar/Mahasiswa",
-      "value": 781
-    },
-    {
-      "label": "Buruh Tani/Perkebunan",
-      "value": 382
-    },
-    {
-      "label": "Petani/Pekebun",
-      "value": 244
-    },
-    {
-      "label": "Karyawan Swasta",
-      "value": 201
-    },
-    {
-      "label": "Buruh Harian Lepas",
-      "value": 191
-    },
-    {
-      "label": "Pekerjaan Lainnya",
-      "value": 162
-    }
-  ],
-  "status_pernikahan": [],
-  "release_status": "Terbit",
-  "aktif": true,
-  "struktur_organisasi": [
-    {
-      "slug": "kadus-buwer",
-      "nama": "Miska",
-      "jabatan": "Kawil Dusun Buwer",
-      "parent": "kepala-desa",
-      "urutan": 7,
-      "deskripsi": "Mengkoordinasikan pelayanan dan kegiatan warga di Dusun Buwer.",
-      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
-      "status_validasi": "Terverifikasi",
-      "release_status": "Terbit",
-      "aktif": true
-    },
-    {
-      "slug": "kadus-mulyasari",
-      "nama": "Sukana Muhtar",
-      "jabatan": "Kawil Dusun Mulyasari",
-      "parent": "kepala-desa",
-      "urutan": 5,
-      "deskripsi": "Mengkoordinasikan pelayanan dan kegiatan warga di Dusun Mulyasari.",
-      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
-      "status_validasi": "Terverifikasi",
-      "release_status": "Terbit",
-      "aktif": true
-    },
-    {
-      "slug": "kadus-sengon",
-      "nama": "Nano Suharno",
-      "jabatan": "Kawil Dusun Sengon",
-      "parent": "kepala-desa",
-      "urutan": 6,
-      "deskripsi": "Mengkoordinasikan pelayanan dan kegiatan warga di Dusun Sengon.",
-      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
-      "status_validasi": "Terverifikasi",
-      "release_status": "Terbit",
-      "aktif": true
-    },
-    {
-      "slug": "kasi-pemerintahan",
-      "nama": "Wendy Wiranto",
-      "jabatan": "Kaur Pemerintahan",
-      "parent": "kepala-desa",
-      "urutan": 4,
-      "deskripsi": "Membantu urusan pemerintahan, kependudukan, dan pelayanan administrasi masyarakat.",
-      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
-      "status_validasi": "Terverifikasi",
-      "release_status": "Terbit",
-      "aktif": true
-    },
-    {
-      "slug": "kaur-kesra",
-      "nama": "Udianto",
-      "jabatan": "Kaur Kesra",
-      "parent": "kepala-desa",
-      "urutan": 3,
-      "deskripsi": "Membantu pelaksanaan urusan kesejahteraan rakyat desa.",
-      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
-      "status_validasi": "Terverifikasi",
-      "release_status": "Terbit",
-      "aktif": true
-    },
-    {
-      "slug": "kaur-keuangan",
-      "nama": "Rinto Purwanto",
-      "jabatan": "Kaur Keuangan",
-      "parent": "kepala-desa",
-      "urutan": 3,
-      "deskripsi": "Mengelola administrasi keuangan desa dan pelaporan APBDes.",
-      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
-      "status_validasi": "Terverifikasi",
-      "release_status": "Terbit",
-      "aktif": true
-    },
-    {
-      "slug": "kaur-umum",
-      "nama": "Anim Setiawan",
-      "jabatan": "Kaur Umum",
-      "parent": "kaur-kesra",
-      "urutan": 4,
-      "deskripsi": "Membantu pelaksanaan urusan tata usaha dan umum desa.",
-      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
-      "status_validasi": "Terverifikasi",
-      "release_status": "Terbit",
-      "aktif": true
-    },
-    {
-      "slug": "kepala-desa",
-      "nama": "Kosasih",
-      "jabatan": "Kepala Desa",
-      "urutan": 1,
-      "deskripsi": "Memimpin penyelenggaraan pemerintahan desa, pembangunan, pembinaan masyarakat, dan pemberdayaan warga.",
-      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
-      "status_validasi": "Terverifikasi",
-      "release_status": "Terbit",
-      "aktif": true
-    },
-    {
-      "slug": "sekretaris-desa",
-      "nama": "Suryanto Suprianto",
-      "jabatan": "Sekretaris Desa",
-      "parent": "kepala-desa",
-      "urutan": 2,
-      "deskripsi": "Mengkoordinasikan administrasi pemerintahan, surat menyurat, dan tata kelola kantor desa.",
-      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
-      "status_validasi": "Terverifikasi",
-      "release_status": "Terbit",
-      "aktif": true
-    },
-    {
-      "slug": "staff-acep-dudung",
-      "nama": "Acep Dudung",
-      "jabatan": "Staff",
-      "parent": "kaur-keuangan",
-      "urutan": 7,
-      "deskripsi": "Staff Pemerintahan Desa Rancajaya.",
-      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
-      "status_validasi": "Terverifikasi",
-      "release_status": "Terbit",
-      "aktif": true
-    },
-    {
-      "slug": "staff-ujang-tamin",
-      "nama": "Ujang Tamin",
-      "jabatan": "Staff",
-      "parent": "kasi-pemerintahan",
-      "urutan": 6,
-      "deskripsi": "Staff Pemerintahan Desa Rancajaya.",
-      "sumber_data": "STRUKTUR DESA RANCAJAYA.xlsx",
-      "status_validasi": "Terverifikasi",
-      "release_status": "Terbit",
-      "aktif": true
-    }
-  ]
+  "sumber_wilayah": "Programa Penyuluhan Pertanian Desa Rancajaya Tahun 2026",
+  "status_validasi_demografi": "Terverifikasi"
 }
